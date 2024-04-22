@@ -40,7 +40,8 @@ Untuk Fitur masih minim:
 
 - Relasi
 
-![Screenshot 2024-04-21 193432](https://github.com/Kuro192/UKK_Gallery/assets/105845443/4d66e307-0230-4646-ac62-1de2d6a548b0)
+![Screenshot (7)](https://github.com/drixki/dexGram/assets/111831906/6c7a4f70-1353-4e4e-85e3-9633074090a5)
+
 
 - UML
 
