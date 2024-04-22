@@ -35,7 +35,7 @@ Untuk Fitur masih minim:
 ## ERD, Relasi dan UML Use Case
 
 - ERD
-
+- 
 ![jawa](https://github.com/drixki/dexGram/assets/111831906/56d550c3-da4b-4df4-8214-0528b7868262)
 
 - Relasi
