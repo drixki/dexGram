@@ -36,7 +36,7 @@ Untuk Fitur masih minim:
 
 - ERD
 
-![ERD UKK-GALLERY](https://github.com/Kuro192/UKK_Gallery/assets/105845443/6e5a911b-5842-40a4-9687-00ae5d0abf37)
+![jawa](https://github.com/drixki/dexGram/assets/111831906/56d550c3-da4b-4df4-8214-0528b7868262)
 
 - Relasi
 
