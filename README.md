@@ -23,7 +23,11 @@ Untuk Fitur masih minim:
 
 ## Tampilan Website
 
+![Screenshot (3)](https://github.com/drixki/dexGram/assets/111831906/3f9a94b5-b81a-4761-9f63-f4a541ede1c9)
 
+![Screenshot (4)](https://github.com/drixki/dexGram/assets/111831906/d00267fa-37f2-4212-8885-c20dbdd3e05f)
+
+![Screenshot (5)](https://github.com/drixki/dexGram/assets/111831906/5d50aec4-5865-453b-8a9f-4ebaba8bd881)
 
 ## ERD, Relasi dan UML Use Case
 
